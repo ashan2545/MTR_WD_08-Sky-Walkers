@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947005248582",
+    "firebase_url": "https://alpha-fitness-ab965.firebaseio.com",
+    "project_id": "alpha-fitness-ab965",
+    "storage_bucket": "alpha-fitness-ab965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947005248582:android:c5328f9fb406d1fde0e647",
+        "android_client_info": {
+          "package_name": "com.example.alphafitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947005248582-e54bppktfuljbjrspong2kh995n8pjv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphafitness",
+            "certificate_hash": "cd4ba37ecca5f16a849a9165afd1bb90f22fdf47"
+          }
+        },
+        {
+          "client_id": "947005248582-skb6uanusa3lgfdq2chpda7qdokq5rbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnm0vlPfKc34QpmNN0F0VXuy0eask-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947005248582-skb6uanusa3lgfdq2chpda7qdokq5rbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
